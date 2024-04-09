@@ -1,4 +1,4 @@
-# Dose-effect association between smoking exposure and effectiveness of pembrolizumab in patients with metastatic urothelial carcinoma
+## Dose-effect association between smoking exposure and effectiveness of pembrolizumab in patients with metastatic urothelial carcinoma
 
 This repository contains the R code used for the analysis presented in the research paper "Impact of Dose-Effect in Smoking on the Effectiveness of Pembrolizumab in Patients with Metastatic Urothelial Carcinoma." The study explores the association between cumulative smoking exposure and the effectiveness of pembrolizumab in patients with metastatic urothelial carcinoma (UC).
 
